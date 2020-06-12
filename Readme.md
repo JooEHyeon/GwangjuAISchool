@@ -2,3 +2,8 @@
 
 ## 1주차 과제 (2020.05.21)
 
+*[인공 지능 사례 분석](https://github.com/JooEHyeon/GwangjuAISchool/blob/master/Assignment1.ipynb)
+
+##2주차 과제 (2020.05.28)
+
+*[파이썬과 인공지능 기초수학]()
